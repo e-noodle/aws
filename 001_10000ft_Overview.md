@@ -30,28 +30,28 @@ AWS Infrastructure (10,000 foot Overview)
 Storage
 -------
 
-   - ***[S3] Simple Storage Service***
-     - Virtual disk in the cloud
-     - Object based storage
-     - Stores files, movies, pictures etc.
+#### [S3] Simple Storage Service
+  - Virtual disk in the cloud
+  - Object based storage
+  - Stores files, movies, pictures etc.
 
 #### [Glacier] Archive Storage
 
-   - Stores files for archiving
-   - Low cost
-   - Good for compliance
+  - Stores files for archiving
+  - Low cost
+  - Good for compliance
 
 #### [EFS] Elasic File Service
 
-   - Block based storage.
-   - Can be shared
-   - Install Applications, Databases (can also use EBS)
-   - Can share across multiple machines
+  - Block based storage.
+  - Can be shared
+  - Install Applications, Databases (can also use EBS)
+  - Can share across multiple machines
 
 #### Storage Gateway
 
-   - Way of connecting up S3 to on premise datacenters
-   - Virtual appliance installed on premise
+  - Way of connecting up S3 to on premise datacenters
+  - Virtual appliance installed on premise
 
 
 

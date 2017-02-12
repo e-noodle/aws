@@ -27,6 +27,22 @@ AWS Infrastructure (10,000 foot Overview)
 +-------------------------------------------------------+
 ```
 
+Keys
+----
+* [SAA] - Solution Architect Associate
+* [DA] - Developer Associate
+* [SA] - Sysadmin Associate
+* [SAP] - Solution Architect Professional
+* [DP] - Developer Professional
+* [OT] - Security (Other)
+
+   [SAA]: <https://github.com/e-noodle/aws/sa>
+   [DA]: <https://github.com/e-noodle/aws/da>
+   [SA]: <https://github.com/e-noodle/aws/sa>
+   [SAP]: <https://github.com/e-noodle/aws/sap>
+   [DP]: <https://github.com/e-noodle/aws/dp>
+   [OT]: <https://github.com/e-noodle/aws/ot>
+
 Storage
 -------
 

@@ -1,14 +1,130 @@
-# 10,000 Foot Overview - Part 2
+# 10,000 Foot Overview
+# AWS Infrastructure
 
-## IAM
+
+## Storage
+
+### [S3] - Simple Storage Service
+* Virtual disk in the cloud
+* Object based storage
+* Stores files, movies, pictures etc.
+
+### [Glacier] - Archive Storage
+
+* Stores files for archiving
+* Low cost
+* Good for compliance
+
+### [EFS] - Elasic File Service
+* Block based storage.
+* Can be shared
+* Install Applications, Databases (can also use EBS)
+* Can share across multiple machines
+
+### Storage Gateway
+
+* Way of connecting up S3 to on premise datacenters
+* Virtual appliance installed on premise
+
+
+
+## Databases
+
+Fundamental to all exams
+
+### RDS
+
+* Oracle Server
+* SQL Server
+* Arora (MySQL, PostgreSQL)
+
+### DynamoDB - Non relational DB
+
+```sh
+D
+```
+
+### Redshift - Replicate primary DBs to redshift
+* Useful for running reports
+
+### Elasticache
+* Caches data in the cloud
+* Useful for caching common queries and to improve performance
+
+
+
+## Migration
+
+### Snowball
+
+Way of transferring data from on premise to AWS. Allow you to mover TB of data into the cloud.  
+Hardware Appliance (1RU) with internal storage
+
+```sh
+SA, A
+```
+
+* New Product - Snowball Edge - Amazon on Premise hardware
+
+### DMS - Allow you to migrate databases within Amazon.
+Allows you to migrate data automatically and resolves issues with traditional migrations e.g. licensing issues with oracle
+
+### SMS - Server Migration Service
+
+Allows you to migrate Virtual Machines (e.g 50 machines at a time) directly to the cloud (simiar to DMS migration)
+
+
+
+## Analytics
+
+### Athena
+Allows you to run SQL queries on S3.  e.g search flat files or json files using SQL.
+
+### EMR - Elastic Map Reduce
+* Reduce large amounts of data - e.g logs reports etc.  Uses Hadooop, Apache preso, spark 
+* Useful in BigData
+
+### Cloud Search
+* Allow you to add search features to your site
+
+### Elastic Serach (open source)
+* Allow you to add search capabilities to your website
+* Also worth looking at angolia (non AWS)
+
+### Kinesis
+Processing large amounts of data - TB/hour
+* Anaalise social media feeds
+* run realtime analysis
+
+### Data Pipeline
+Move data from S3 into DynamoDB or viaversa
+
+### QuickSight 
+* Business analytics tool
+* Create rich dashboards
+* Analyse data from DynamoDB, Redshift
+
+
+
+## Security & Identity
+
+### IAM
 * How to manage users
 * Privleges
+
+
+
+## Management Tools
 
 ## Inspector
 Agent that you install on the virtual machines and does security reporting
 
 ## Certificate Manager
 Provides you with free SSL certificates for webservices
+
+
+
+## Application Services
 
 ## Directory Service
 Allows you to connect Active Directory to AWS
@@ -25,7 +141,6 @@ WAF allows you to apply Application Level protection to your website.
 * Compliance Documentation
 * ISO 900 Certification
 * PCI Certification
-
 
 ## Cloud Watch
 Used to monitor performance of your AWS environment
@@ -64,7 +179,7 @@ Allows applications to be streamed to users
 Alows media content to be transcoded dynamically into different formats (e.g. ipad, iphone etc)
 
 
-# Code Management
+# Developer Tools
 
 ## CodeCommit
 Allow you to store code in the cloud
@@ -121,4 +236,3 @@ A way of streaming desktop applications to users
 
 Elon Musk - Warning us against the dangers of artification intelligence
 Superintelligenece = Nick Bostrom
-

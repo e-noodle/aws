@@ -1,6 +1,4 @@
-# 10,000 Foot Overview
-# AWS Infrastructure
-
+# 10,000 Foot Overview - AWS Infrastructure
 
 ## Storage
 
@@ -30,7 +28,7 @@
 
 ## Databases
 
-Fundamental to all exams
+ Fundamental to all exams
 
 #### RDS
 

@@ -2,8 +2,11 @@
 ![alt text](https://media.amazonwebservices.com/blog/2007/big_pbaws_logo_300px.jpg "AWS")
 
 AWS Infrastructure (10,000 foot Overview)
-=========================================
+-----------------------------------------
 
+
+Service Components
+------------------
 ```
 +-----------------+----------------+--------------------+
 |   GAME          |   ARTIFICIAL   |     MESSAGING      |
@@ -27,8 +30,8 @@ AWS Infrastructure (10,000 foot Overview)
 +-------------------------------------------------------+
 ```
 
-Certifications
---------------
+Exam Indicators
+---------------
 
 | Certificate | Code   | Description             |
 | ----------- | ------ | ----------------------- |
@@ -46,6 +49,8 @@ Certifications
    [SAP]: <https://github.com/e-noodle/aws/sap>
    [DP]: <https://github.com/e-noodle/aws/dp>
    [OT]: <https://github.com/e-noodle/aws/ot>
+
+
 
 Storage
 -------

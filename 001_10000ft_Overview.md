@@ -1,9 +1,8 @@
 
 ![alt text](https://media.amazonwebservices.com/blog/2007/big_pbaws_logo_300px.jpg "AWS")
 
-## AWS Infrastructure (10,000 foot Overview)
-
-## Servicen Components
+AWS Infrastructure (10,000 foot Overview)
+=========================================
 
 ```
 +-----------------+----------------+--------------------+
@@ -27,11 +26,6 @@
 |               AWS GLOBAL INFRASTRUCTURE               |
 +-------------------------------------------------------+
 ```
-
- 
-
- 
-
 
 ## Storage
 
@@ -62,7 +56,6 @@
 
 
 
----
 
 ## Databases
 
@@ -94,7 +87,6 @@
 
 
 
----
 
 ## Migration
 

@@ -77,9 +77,10 @@
   - SQL Server
   - Arora (MySQL, PostgreSQL)
 
-#### DynamoDB - Non relational DB
- 
-  > ***Exam Tip*** *`Developer Cert`*
+
+#### DynamoDB
+  - Non relational DB 
+    - > ***Exam*** Developer
 
 #### Redshift - Replicate primary DBs to redshift
 

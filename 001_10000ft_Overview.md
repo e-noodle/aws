@@ -27,9 +27,9 @@ AWS Infrastructure (10,000 foot Overview)
 +-------------------------------------------------------+
 ```
 
-Keys
+Certification Tags
 ----
-* [SAA] - Solution Architect Associate
+* [SAA(http://cloudacademy.com/blog/wp-content/uploads/2014/02/Amazon-Web-Services-Certified-Solutions-Architect-Associate.png "Solution Architect Associate" =50x)] - Solution Architect Associate
 * [DA] - Developer Associate
 * [SA] - Sysadmin Associate
 * [SAP] - Solution Architect Professional

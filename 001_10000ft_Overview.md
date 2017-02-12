@@ -79,7 +79,7 @@
 
 #### DynamoDB - Non relational DB
  
-  `**Exam Tip**` *Developer Cert*
+  > ***Exam Tip*** *`Developer Cert`*
 
 #### Redshift - Replicate primary DBs to redshift
 

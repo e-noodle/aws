@@ -1,13 +1,9 @@
 
 ![alt text](https://media.amazonwebservices.com/blog/2007/big_pbaws_logo_300px.jpg "AWS")
 
-## AWS Infrastructure 
-#### 10,000 foot Overview
+## AWS Infrastructure (10,000 foot Overview)
 
-
----
-
-## Services Overview
+## Servicen Components
 
 ```
 +-----------------+----------------+--------------------+
@@ -32,8 +28,10 @@
 +-------------------------------------------------------+
 ```
 
+ 
 
----
+ 
+
 
 ## Storage
 

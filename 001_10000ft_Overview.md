@@ -29,12 +29,12 @@ AWS Infrastructure (10,000 foot Overview)
 
 Certification Tags
 ----
-* <img src="http://cloudacademy.com/blog/wp-content/uploads/2014/02/Amazon-Web-Services-Certified-Solutions-Architect-Associate.png" width="200px">  [SAA] - Solution Architect Associate
-* <img src="http://blog.cloudthat.com/assets/Developer-Associate.jpg" width="200px">  [DA] - Developer Associate
-* <img src="http://www.cromacampus.com/wp-content/uploads/2016/05/AWS-Certified-SysOps-Administrator-Associate1-300x116.png" width="200px">  [SA] - Sysadmin Associate
-* <img src="http://cloudacademy.com/blog/wp-content/uploads/2014/02/Amazon-Web-Services-Certified-Solutions-Architect-Associate.png" width="200px">  [SAP] - Solution Architect Professional
-* <img src="http://cloudacademy.com/blog/wp-content/uploads/2014/02/Amazon-Web-Services-Certified-Solutions-Architect-Associate.png" width="200px">  [DP] - Developer Professional
-* <img src="http://cloudacademy.com/blog/wp-content/uploads/2014/02/Amazon-Web-Services-Certified-Solutions-Architect-Associate.png" width="200px">  [OT] - Security (Other)
+* <img src="http://cloudacademy.com/blog/wp-content/uploads/2014/02/Amazon-Web-Services-Certified-Solutions-Architect-Associate.png" width="64px"> [SAA] - Solution Architect Associate
+* <img src="http://blog.cloudthat.com/assets/Developer-Associate.jpg" width="64px"> [DA] - Developer Associate
+* <img src="http://www.cromacampus.com/wp-content/uploads/2016/05/AWS-Certified-SysOps-Administrator-Associate1-300x116.png" width="64px"> [SA] - Sysadmin Associate
+* <img src="http://cloudacademy.com/blog/wp-content/uploads/2014/02/Amazon-Web-Services-Certified-Solutions-Architect-Associate.png" width="64px"> [SAP] - Solution Architect Professional
+* <img src="http://cloudacademy.com/blog/wp-content/uploads/2014/02/Amazon-Web-Services-Certified-Solutions-Architect-Associate.png" width="64px"> [DP] - Developer Professional
+* <img src="http://cloudacademy.com/blog/wp-content/uploads/2014/02/Amazon-Web-Services-Certified-Solutions-Architect-Associate.png" width="64px"> [OT] - Security (Other)
 
    [SAA]: <https://github.com/e-noodle/aws/saa>
    [DA]: <https://github.com/e-noodle/aws/da>

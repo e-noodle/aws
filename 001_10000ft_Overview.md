@@ -1,5 +1,5 @@
 
-![alt text](https://media.amazonwebservices.com/blog/2007/big_pbaws_logo_300px.jpg "AWS")
+<img src="https://media.amazonwebservices.com/blog/2007/big_pbaws_logo_300px.jpg" width="128px">
 
 AWS Infrastructure (10,000 foot Overview)
 -----------------------------------------

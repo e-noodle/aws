@@ -52,6 +52,10 @@
    - Virtual appliance installed on premise
 
 
+
+
+
+
 ## Databases
 
  Fundamental to all exams
@@ -72,8 +76,10 @@
 
 #### Elasticache
 
-- Caches data in the cloud
+  - Caches data in the cloud
   - Useful for caching common queries and to improve performance
+
+
 
 
 
@@ -81,144 +87,207 @@
 
 #### Snowball
 
-Way of transferring data from on premise to AWS. Allow you to mover TB of data into the cloud.  
-Hardware Appliance (1RU) with internal storage
-
-> SA
-> A
-
-* New Product - Snowball Edge - Amazon on Premise hardware
+  - Way of transferring data from on premise to AWS. 
+  - Allow you to mover TB of data into the cloud.  
+  - Hardware Appliance (1RU) with internal storage
+  
+  > `New Product - Snowball Edge - Amazon on Premise hardware`
+  > SA, A
 
 #### DMS - Allow you to migrate databases within Amazon.
-Allows you to migrate data automatically and resolves issues with traditional migrations e.g. licensing issues with oracle
+  Migrate data automatically and resolves issues with traditional migrations e.g. licensing issues with oracle
 
-#### SMS - Server Migration Service
+#### SMS (Server Migration Service)
+  Migrate Virtual Machines (e.g 50 machines at a time) directly to the cloud (simiar to DMS migration)
 
-Allows you to migrate Virtual Machines (e.g 50 machines at a time) directly to the cloud (simiar to DMS migration)
+
 
 
 
 ## Analytics
 
 #### Athena
-Allows you to run SQL queries on S3.  e.g search flat files or json files using SQL.
+
+  Run SQL queries on S3.  e.g search flat files or json files using SQL.
+
 
 #### EMR - Elastic Map Reduce
-* Reduce large amounts of data - e.g logs reports etc.  Uses Hadooop, Apache preso, spark 
-* Useful in BigData
+
+  - Reduce large amounts of data (e.g logs reports etc).
+  - Uses
+    - Hadooop
+    - Apache Preso
+    - Apache Spark 
+  - Useful in BigData
+
 
 #### Cloud Search
-* Allow you to add search features to your site
+
+  - Allow you to add search features to your site
+
 
 #### Elastic Serach (open source)
-* Allow you to add search capabilities to your website
-* Also worth looking at angolia (non AWS)
+
+  - Add search capabilities to your website
+  > Angolia (non AWS solution)
 
 #### Kinesis
-Processing large amounts of data - TB/hour
-* Anaalise social media feeds
-* run realtime analysis
+
+  -  Process large amounts of data (TB/h)
+  - Anaalise social media feeds
+  - run realtime analysis
+
 
 #### Data Pipeline
-Move data from S3 into DynamoDB or viaversa
+
+  Move data from S3 into DynamoDB or viaversa
+
 
 #### QuickSight 
-* Business analytics tool
-* Create rich dashboards
-* Analyse data from DynamoDB, Redshift
+
+  - Business analytics tool
+  - Create rich dashboards
+  - Analyse data from DynamoDB, Redshift
+
+
 
 
 
 ## Security & Identity
 
 #### IAM
-* How to manage users
-* Privleges
+
+  - How to manage users
+  - Privleges
+
+
 
 
 
 ## Management Tools
 
 #### Inspector
-Agent that you install on the virtual machines and does security reporting
+
+  Agent installed on the virtual machines and does security reporting
+
 
 #### Certificate Manager
-Provides you with free SSL certificates for webservices
+
+  Provides free SSL certificates for web applications and services.
+
+
 
 
 
 ## Application Services
 
+
 #### Directory Service
-Allows you to connect Active Directory to AWS
+
+  - Connect Active Directory to AWS
+
 
 #### WAF 
-Traditionally firewalls protect you at tht network layer. 
-WAF allows you to apply Application Level protection to your website.
 
-* SQL injection
-* cross site sripting
-* Way of connecting up S3 to on premise datacenters
+  - Traditionally firewalls protect you at the pysical Network layer. 
+  - WAF applies Application Level security protection to your application/site.
+  - Protects against
+     - SQL injection
+     - cross site sripting
+     - Way of connecting up S3 to on premise datacenters
+
 
 #### AWS Artifact
-* Compliance Documentation
-* ISO 900 Certification
-* PCI Certification
+
+  - Compliance Documentation
+  - ISO 900 Certification
+  - PCI Certification
+
 
 #### Cloud Watch
-Used to monitor performance of your AWS environment
-* Disk util
-* RAM, CPU etc 
+
+  - Used to monitor performance of your AWS environment
+     - Disk util
+     - RAM
+     - CPU etc 
+
 
 #### Cloud Formation (Infrastructre as Code)
-A way of turning your physical infrastructure into code.  Its a document which describes your AWS environment which become templates which can be used to deploy infrastructure.
+
+  - A document which describes your AWS environment which become templates which can be used to deploy infrastructure.
+  - A way of turning your physical infrastructure into code.
+
 
 #### Cloud Trail
-Used for auditing changes in your environment
+
+  - Used for auditing changes in your environment
+
 
 #### Opsworks
-Integration with Chef for automated deployment
+
+  - Integration with Chef for automated deployment
+
 
 #### Config
-Alerts can be created to advise when configurations change
+
+  - Alerts can be created to advise when configurations change
+
 
 #### Trust Advisor
-Automated way of scanning the environemnt and optimising resources.
+
+  - Automated way of scanning the environemnt and optimising resources.
+
 
 #### Step Functions
-Way to understand the interaction of application components and micro services
+  
+  - Understand the interaction of application components and micro services
+
 
 #### SWF - Simple Workflow
-Allows you to coordinate and manage tasks and workflows.
+  
+  - Coordinate and manage tasks and workflows.
+
 
 #### API Gateway
-Create publish and monitor APIs at scale.
-Allow applications to access backend services e.g lambda or  backend systems to access business data or logic.
+
+  - Create publish and monitor APIs at scale.
+  - Allow applications to access backend services e.g lambda or  backend systems to access business data or logic.
+
 
 #### AppStream
-Allows applications to be streamed to users
+
+  - Allow applications to be streamed to users
+
 
 #### Elasic Transcoder
-Alows media content to be transcoded dynamically into different formats (e.g. ipad, iphone etc)
+  - Alows media content to be transcoded dynamically into different formats (e.g. ipad, iphone etc)
 
 
-# Developer Tools
+
+
+## Developer Tools
 
 #### CodeCommit
-Allow you to store code in the cloud
+
+  - Store code in the cloud
 
 #### CodeBuild
-Allows you to build code (pay per min)
 
-#### CodeDeploy 
-Deploy code
+  - Build code (pay per min)
+
+#### CodeDeploy
+
+  - Deploys code
 
 #### Code Pipeline 
-Allows Pipelines to be managed
+
+  - Manage Code pipelines
 
 
 
-# Mobile Services
+
+
+## Mobile Services
 
 #### Mobile Hub
 Console for managing mobile apps
@@ -241,12 +310,16 @@ Uses S3 with security to allow you to manage business documents in the cloud
 Exchange for AWS
 
 
-# IOT
+
+
+## IOT
 Allow you to manage IOT devices 
 Provides services such as IOT gatway
 
 
-# Desktop and App Streaming
+
+
+## Desktop and App Streaming
 
 #### Workspaces
 A way of having a desktop in the client.
@@ -255,7 +328,9 @@ A way of having a desktop in the client.
 A way of streaming desktop applications to users
 
 
-# Artificial Intelligence
+
+
+## Artificial Intelligence
 
 Elon Musk - Warning us against the dangers of artification intelligence
 Superintelligenece = Nick Bostrom

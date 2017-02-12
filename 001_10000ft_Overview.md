@@ -62,10 +62,7 @@
 * Arora (MySQL, PostgreSQL)
 
 #### DynamoDB - Non relational DB
-
-```sh
-D
-```
+> Developer Cert
 
 #### Redshift - Replicate primary DBs to redshift
 * Useful for running reports
@@ -83,9 +80,8 @@ D
 Way of transferring data from on premise to AWS. Allow you to mover TB of data into the cloud.  
 Hardware Appliance (1RU) with internal storage
 
-```sh
-SA, A
-```
+> SA
+> A
 
 * New Product - Snowball Edge - Amazon on Premise hardware
 

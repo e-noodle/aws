@@ -71,6 +71,24 @@ Allows you to migrate Virtual Machines (e.g 50 machines at a time) directly to t
 
 Allows you to run SQL queries on S3.  e.g search flat files or json files using SQL.
 
+### EMR - Elastic Map Reduce
+* Reduce large amounts of data - e.g logs reports etc.  Uses Hadooop, Apache preso, spark 
+* Useful in BigData
+
+### Cloud Search
+* Allow you to add search features to your site
+
+### Elastic Serach (open source)
+* Allow you to add search capabilities to your website
+* Also worth looking at angolia (non AWS)
+
+### Kinesis
+
+Processing large amounts of data - TB/hour
+* Anaalise social media feeds
+* run realtime analysis
+
+
 ## Certifications
 * [Link to more info] - Professional
  

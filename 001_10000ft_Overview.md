@@ -36,7 +36,7 @@ Certification Tags
 * [DP] - Developer Professional
 * [OT] - Security (Other)
 
-   [SAA]: (http://cloudacademy.com/blog/wp-content/uploads/2014/02/Amazon-Web-Services-Certified-Solutions-Architect-Associate.png)
+   [SAA]: <(![](http://cloudacademy.com/blog/wp-content/uploads/2014/02/Amazon-Web-Services-Certified-Solutions-Architect-Associate.png)>
    [DA]: <https://github.com/e-noodle/aws/da>
    [SA]: <https://github.com/e-noodle/aws/sa>
    [SAP]: <https://github.com/e-noodle/aws/sap>

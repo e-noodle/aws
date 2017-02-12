@@ -32,13 +32,13 @@ Certifications
 
 | Certificate | Code   | Description             |
 | ----------- | ------ | ----------------------- |
-| <img src="http://cloudacademy.com/blog/wp-content/uploads/2014/02/Amazon-Web-Services-Certified-Solutions-Architect-Associate.png" width="64px" | [SAA] | Solution Architect Associate    |
-| <img src="http://blog.cloudthat.com/assets/Developer-Associate.jpg" width="64px">                                                               | [DA]  | Developer Associate             |
-| <img src="http://www.cromacampus.com/wp-content/uploads/2016/05/AWS-Certified-SysOps-Administrator-Associate1-300x116.png" width="64px">        | [SAA] | Solution Architect Associate    |
-| <img src="http://www.cromacampus.com/wp-content/uploads/2016/05/AWS-Certified-SysOps-Administrator-Associate1-300x116.png" width="64px">        | [SA]  | SysOps Associate                |
-| <img src="http://www.cromacampus.com/wp-content/uploads/2016/05/AWS-Certified-SysOps-Administrator-Associate1-300x116.png" width="64px">        | [SAA] | Solution Architect Professional |
-| <img src="http://www.cromacampus.com/wp-content/uploads/2016/05/AWS-Certified-SysOps-Administrator-Associate1-300x116.png" width="64px">        | [SAA] | Solution Architect Professional |
-| <img src="http://www.cromacampus.com/wp-content/uploads/2016/05/AWS-Certified-SysOps-Administrator-Associate1-300x116.png" width="64px">        | [OT] | Other Professional               |
+| <img src="http://cloudacademy.com/blog/wp-content/uploads/2014/02/Amazon-Web-Services-Certified-Solutions-Architect-Associate.png" width="64px"> | [SAA] | Solution Architect Associate    |
+| <img src="http://blog.cloudthat.com/assets/Developer-Associate.jpg" width="64px">                                                                | [DA]  | Developer Associate             |
+| <img src="http://www.cromacampus.com/wp-content/uploads/2016/05/AWS-Certified-SysOps-Administrator-Associate1-300x116.png" width="64px">         | [SAA] | Solution Architect Associate    |
+| <img src="http://www.cromacampus.com/wp-content/uploads/2016/05/AWS-Certified-SysOps-Administrator-Associate1-300x116.png" width="64px">         | [SA]  | SysOps Associate                |
+| <img src="http://www.cromacampus.com/wp-content/uploads/2016/05/AWS-Certified-SysOps-Administrator-Associate1-300x116.png" width="64px">         | [SAA] | Solution Architect Professional |
+| <img src="http://www.cromacampus.com/wp-content/uploads/2016/05/AWS-Certified-SysOps-Administrator-Associate1-300x116.png" width="64px">         | [SAA] | Solution Architect Professional |
+| <img src="http://www.cromacampus.com/wp-content/uploads/2016/05/AWS-Certified-SysOps-Administrator-Associate1-300x116.png" width="64px">         | [OT] | Other Professional               |
 
 
 * <img src="http://cloudacademy.com/blog/wp-content/uploads/2014/02/Amazon-Web-Services-Certified-Solutions-Architect-Associate.png" width="64px"> [SAA] - Solution Architect Associate

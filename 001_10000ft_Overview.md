@@ -30,7 +30,7 @@ AWS Infrastructure (10,000 foot Overview)
 Storage
 -------
 
-  - ***[S3] Simple Storage Service***
+   - ***[S3] Simple Storage Service***
      - Virtual disk in the cloud
      - Object based storage
      - Stores files, movies, pictures etc.

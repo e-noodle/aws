@@ -1,4 +1,5 @@
-# 10,000 Foot Overview - AWS Infrastructure
+# AWS Infrastructure
+#### 10,000 Foot Overview 
 
 ## Storage
 

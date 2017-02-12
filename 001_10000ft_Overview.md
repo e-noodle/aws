@@ -348,5 +348,6 @@
 
   - Elon Musk 
     - Warning us against the dangers of artification intelligence
-    - > Recommended Book:
-    - > Superintelligenece by Nick Bostrom
+
+  > **Recommended Book**
+  > Superintelligenece by Nick Bostrom

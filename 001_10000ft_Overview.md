@@ -120,7 +120,7 @@ Migration
   - Way of transferring data from on premise to AWS. 
   - Allow you to mover TB of data into the cloud.  
   - Hardware Appliance (1RU) with internal storage
-     - *Snowball Edge (Amazon on Premise hardware)*
+  - *Snowball Edge (Amazon on Premise hardware)*
   
   > ***Exam*** [SAA], [SA]
 

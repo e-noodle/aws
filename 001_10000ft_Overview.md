@@ -1,6 +1,30 @@
 # AWS Infrastructure
 #### 10,000 Foot Overview 
 
+```
++-----------------+----------------+--------------------+
+|   GAME          |   ARTIFICIAL   |     MESSAGING      |
+|   DEVELOPMENT   |   INTELLIGENCE |                    |
++-------------------------------------------------------+
+|   BUSINESS      |      IOT       | DESKTOP STREAMING  |
+|   PRODUCTIVITY  |                |                    |
++-------------------------------------------------------+
+|   APPLICATION   |  MOBILE        | DEVELOPER          |
+|   SERVICES      |  SERVICES      | TOOLS              |
++-------------------------------------------------------+
+|                 |   SECURITY &   |                    |
+|    ANALYTICS    |   IDENTITY     | MANAGEMENT TOOLS   |
++-------------------------------------------------------+
+|    MIGRATION    |    STORAGE     |     DATABASES      |
+|                 |                |                    |
++-----------------+----------+-----+--------------------+
+| NETWORK & CONTENT DELIVERY |           COMPUTE        |
++----------------------------+--------------------------+
+|               AWS GLOBAL INFRASTRUCTURE               |
++-------------------------------------------------------+
+```
+
+
 ## Storage
 
 #### [S3] - Simple Storage Service

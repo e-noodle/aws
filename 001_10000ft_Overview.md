@@ -263,6 +263,7 @@
 
 
 #### Elasic Transcoder
+  
   - Alows media content to be transcoded dynamically into different formats (e.g. ipad, iphone etc)
 
 
@@ -288,12 +289,13 @@
 
 
 
-## Mobile Services  
+***
+## Mobile Services
+***
 
-#### Mobile Hub  
+#### Mobile Hub
 
-  - Console for managing mobile apps  
-
+  - Console for managing mobile apps
 
 #### Cognito
 
@@ -316,14 +318,19 @@
   - Uses S3 with security to allow you to manage business documents in the cloud
 
 #### Workmail
-
+  
   - Exchange for AWS
 
 
 
+
+
 ## IOT
+
   - Manage IOT devices 
   - Provides services such as IOT gateway
+
+
 
 
 

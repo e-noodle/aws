@@ -27,51 +27,53 @@
 
 ## Storage
 
- #### [S3] - Simple Storage Service
- 
+#### [S3] Simple Storage Service
+
    - Virtual disk in the cloud
    - Object based storage
    - Stores files, movies, pictures etc.
 
- #### [Glacier] - Archive Storage
+#### [Glacier] Archive Storage
 
    - Stores files for archiving
    - Low cost
    - Good for compliance
 
- #### [EFS] - Elasic File Service
+#### [EFS] Elasic File Service
 
    - Block based storage.
    - Can be shared
    - Install Applications, Databases (can also use EBS)
    - Can share across multiple machines
 
- #### Storage Gateway
+#### Storage Gateway
 
    - Way of connecting up S3 to on premise datacenters
    - Virtual appliance installed on premise
 
 
- ## Databases
+## Databases
 
  Fundamental to all exams
 
- #### RDS
+#### RDS
 
-   - Oracle Server
-   - SQL Server
-   - Arora (MySQL, PostgreSQL)
+  - Oracle Server
+  - SQL Server
+  - Arora (MySQL, PostgreSQL)
 
- #### DynamoDB - Non relational DB
+#### DynamoDB - Non relational DB
  
   > Developer Cert
 
- #### Redshift - Replicate primary DBs to redshift
-   - Useful for running reports
+#### Redshift - Replicate primary DBs to redshift
+
+  - Useful for running reports
 
 #### Elasticache
-* Caches data in the cloud
-* Useful for caching common queries and to improve performance
+
+- Caches data in the cloud
+  - Useful for caching common queries and to improve performance
 
 
 

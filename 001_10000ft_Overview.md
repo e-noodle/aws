@@ -122,7 +122,7 @@ Migration
   - Hardware Appliance (1RU) with internal storage
      - *Snowball Edge (Amazon on Premise hardware)*
   
-  > ***Exam*** Solutions Architect, SysAdmin
+  > ***Exam*** [SAA], [SA]
 
 #### DMS
 

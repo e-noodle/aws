@@ -1,7 +1,9 @@
 ![alt text](https://media.amazonwebservices.com/blog/2007/big_pbaws_logo_300px.jpg "AWS")
-# AWS Infrastructure
 
-#### 10,000 Foot Overview 
+# AWS Infrastructure - 10,000 foot Overview
+
+#### Services Overview
+
 ```
 +-----------------+----------------+--------------------+
 |   GAME          |   ARTIFICIAL   |     MESSAGING      |
@@ -55,11 +57,10 @@
 
 
 
-
-
 ## Databases
 
- Fundamental to all exams
+  > Fundamental to all exams
+
 
 #### RDS
 
@@ -95,11 +96,13 @@
   
   - > SA, A
 
-#### DMS - Allow you to migrate databases within Amazon.
-  Migrate data automatically and resolves issues with traditional migrations e.g. licensing issues with oracle
+#### DMS
+
+  - Migrate databases within Amazon.
+  - Migrate data automatically and avoid overhead issues with licensing involved with traditional migrations e.g. oracle
 
 #### SMS (Server Migration Service)
-  Migrate Virtual Machines (e.g 50 machines at a time) directly to the cloud (simiar to DMS migration)
+  - Migrate Virtual Machines (e.g 50 machines at a time) directly to the cloud (simiar to DMS migration)
 
 
 
@@ -109,9 +112,8 @@
 
 #### Athena
 
-  Run SQL queries on S3.  e.g search flat files or json files using SQL.
-
-
+  - Run SQL queries on S3
+    - e.g search flat files or json files using SQL.
 
 
 #### EMR - Elastic Map Reduce
@@ -165,18 +167,16 @@
 
 
 
-
-
 ## Management Tools
 
 #### Inspector
 
-  Agent installed on the virtual machines and does security reporting
+- Agent installed on the virtual machines and does security reporting
 
 
 #### Certificate Manager
 
-  Provides free SSL certificates for web applications and services.
+  - Provides free SSL certificates for web applications and services.
 
 
 
@@ -288,58 +288,58 @@
 
 
 
-
-
 ## Mobile Services  
-
-
-
 
 #### Mobile Hub  
 
-Console for managing mobile apps  
-
+  - Console for managing mobile apps  
 
 
 #### Cognito
-Users can sign into application using Social media providerss (e.g gmail, facebook)
+
+  - Users can sign into application using Social media providerss (e.g gmail, facebook)
 
 #### Device Farm
-Enables you to improve the quiality of IOS, Android devices (physical)
 
-#### Mobile Analytics - Allows you to analyse app data
+  - Enables you to improve the quiality of IOS, Android devices (physical)
+
+#### Mobile Analytics
+
+  - Analyse app data
 
 #### PinPoint
-Engage with your users and understand behaviour of how users use application (like Google Analytics but for apps)
+
+  - Engage with your users and understand behaviour of how users use application (like Google Analytics but for apps)
 
 #### WorkDocs
-Uses S3 with security to allow you to manage business documents in the cloud
+
+  - Uses S3 with security to allow you to manage business documents in the cloud
 
 #### Workmail
-Exchange for AWS
 
+  - Exchange for AWS
 
 
 
 ## IOT
-Allow you to manage IOT devices 
-Provides services such as IOT gatway
-
+  - Manage IOT devices 
+  - Provides services such as IOT gateway
 
 
 
 ## Desktop and App Streaming
 
 #### Workspaces
-A way of having a desktop in the client.
+  - A way of having a desktop in the client.
 
 #### AppStream 2.0
-A way of streaming desktop applications to users
-
+  - A way of streaming desktop applications to users
 
 
 
 ## Artificial Intelligence
 
-Elon Musk - Warning us against the dangers of artification intelligence
-Superintelligenece = Nick Bostrom
+  - Elon Musk 
+    - Warning us against the dangers of artification intelligence
+  > Recommended Book:
+  > Superintelligenece by Nick Bostrom

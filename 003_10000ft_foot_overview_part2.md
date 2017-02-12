@@ -42,7 +42,9 @@ Fundamental to all exams
 
 ### DynamoDB - Non relational DB
 
-```D```
+```sh
+D
+```
 
 ### Redshift - Replicate primary DBs to redshift
 * Useful for running reports
@@ -56,7 +58,9 @@ Fundamental to all exams
 Way of transferring data from on premise to AWS. Allow you to mover TB of data into the cloud.  
 Hardware Appliance (1RU) with internal storage
 
-```SA, A```
+```sh
+SA, A
+```
 
 * New Product - Snowball Edge - Amazon on Premise hardware
 

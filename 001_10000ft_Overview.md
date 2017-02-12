@@ -91,9 +91,9 @@
   - Way of transferring data from on premise to AWS. 
   - Allow you to mover TB of data into the cloud.  
   - Hardware Appliance (1RU) with internal storage
+  - > `New Product - Snowball Edge - Amazon on Premise hardware`
   
-  > `New Product - Snowball Edge - Amazon on Premise hardware`
-  > SA, A
+  - > SA, A
 
 #### DMS - Allow you to migrate databases within Amazon.
   Migrate data automatically and resolves issues with traditional migrations e.g. licensing issues with oracle
@@ -112,14 +112,16 @@
   Run SQL queries on S3.  e.g search flat files or json files using SQL.
 
 
+
+
 #### EMR - Elastic Map Reduce
 
   - Reduce large amounts of data (e.g logs reports etc).
-  - Uses
+  - NoSQL Databases
     - Hadooop
     - Apache Preso
     - Apache Spark 
-  - Useful in BigData
+  - Handles BigData
 
 
 #### Cloud Search

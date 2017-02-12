@@ -324,6 +324,7 @@
 
 
 
+###
 
 ## IOT
 
@@ -346,8 +347,7 @@
 
 ## Artificial Intelligence
 
-  - Elon Musk 
-    - Warning us against the dangers of artification intelligence
+  - Elon Musk *`Warning` us against the dangers of artification intelligence*
 
   > **Recommended Book**
   > Superintelligenece by Nick Bostrom

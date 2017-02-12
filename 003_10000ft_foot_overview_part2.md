@@ -22,12 +22,54 @@ $ git clone https://github.com/e-noodle/aws
 ### [EFS] - Elasic File Service
 * Block based storage.
 * Can be shared
-* Install Applications, Databases,
+* Install Applications, Databases (can also use EBS)
 * Can share across multiple machines
 
 ### Storage Gateway
+
 * Way of connecting up S3 to on premise datacenters
 * Virtual appliance installed on premise
+
+## Databases
+
+Fundamental to all exams
+
+### RDS
+
+* Oracle Server
+* SQL Server
+* Arora (MySQL, PostgreSQL)
+
+### DynamoDB - Non relational DB
+
+```D```
+
+### Redshift - Replicate primary DBs to redshift
+* Useful for running reports
+
+### Elasticache
+* Caches data in the cloud
+* Useful for caching common queries and to improve performance
+
+### Snowball
+
+Way of transferring data from on premise to AWS. Allow you to mover TB of data into the cloud.  
+Hardware Appliance (1RU) with internal storage
+
+```SA, A```
+
+* New Product - Snowball Edge - Amazon on Premise hardware
+
+### DMS - Allow you to migrate databases within Amazon.
+Allows you to migrate data automatically and resolves issues with traditional migrations e.g. licensing issues with oracle
+
+### SMS - Server Migration Service
+
+Allows you to migrate Virtual Machines (e.g 50 machines at a time) directly to the cloud (simiar to DMS migration)
+
+### Athena
+
+Allows you to run SQL queries on S3.  e.g search flat files or json files using SQL.
 
 ## Certifications
 * [Link to more info] - Professional

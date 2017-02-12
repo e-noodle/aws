@@ -1,8 +1,13 @@
+
 ![alt text](https://media.amazonwebservices.com/blog/2007/big_pbaws_logo_300px.jpg "AWS")
 
-# AWS Infrastructure - 10,000 foot Overview
+## AWS Infrastructure 
+#### 10,000 foot Overview
 
-#### Services Overview
+
+---
+
+## Services Overview
 
 ```
 +-----------------+----------------+--------------------+
@@ -27,6 +32,8 @@
 +-------------------------------------------------------+
 ```
 
+
+---
 
 ## Storage
 
@@ -57,6 +64,8 @@
 
 
 
+---
+
 ## Databases
 
   > Fundamental to all exams
@@ -85,6 +94,8 @@
 
 
 
+---
+
 ## Migration
 
 #### Snowball
@@ -107,6 +118,7 @@
 
 
 
+---
 
 ## Analytics
 
@@ -157,6 +169,7 @@
 
 
 
+---
 
 ## Security & Identity
 
@@ -181,6 +194,7 @@
 
 
 
+---
 
 ## Application Services
 
@@ -269,6 +283,8 @@
 
 
 
+---
+
 ## Developer Tools
 
 #### CodeCommit
@@ -289,7 +305,9 @@
 
 
 
+
 ---
+
 ## Mobile Services
 
 
@@ -323,8 +341,7 @@
 
 
 
-
-###
+---
 
 ## IOT
 
@@ -332,8 +349,7 @@
   - Provides services such as IOT gateway
 
 
-
-
+---
 
 ## Desktop and App Streaming
 
@@ -344,6 +360,8 @@
   - A way of streaming desktop applications to users
 
 
+
+---
 
 ## Artificial Intelligence
 

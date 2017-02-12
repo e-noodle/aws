@@ -30,11 +30,10 @@ AWS Infrastructure (10,000 foot Overview)
 Storage
 -------
 
-#### [S3] Simple Storage Service
-
-   - Virtual disk in the cloud
-   - Object based storage
-   - Stores files, movies, pictures etc.
+  - ***[S3] Simple Storage Service***
+     - Virtual disk in the cloud
+     - Object based storage
+     - Stores files, movies, pictures etc.
 
 #### [Glacier] Archive Storage
 
@@ -274,30 +273,20 @@ Application Services
 
 
 
-
-
-
 Developer Tools
 ----------------
 
-#### CodeCommit
+  - ***CodeCommit***
+     - Store code in the cloud
 
-  - Store code in the cloud
+  - ***CodeBuild***
+     - Build code (pay per min)
 
-#### CodeBuild
+  - ***CodeDeploy***
+     - Deploys code
 
-  - Build code (pay per min)
-
-#### CodeDeploy
-
-  - Deploys code
-
-#### Code Pipeline 
-
-  - Manage Code pipelines
-
-
-
+  - ***Code Pipeline*** 
+     - Manage Code pipelines
 
 
 Mobile Services
@@ -305,29 +294,24 @@ Mobile Services
 
   - ***Mobile Hub*** 
      - Console for managing mobile apps
+
   - ***Cognito***
      - Users can sign into application using Social media providerss (e.g gmail, facebook)
+  
   - ***Device Farm***
      - Enables you to improve the quiality of IOS, Android devices (physical)
-
-#### Mobile Analytics
-
-  - Analyse app data
-
-#### PinPoint
-
-  - Engage with your users and understand behaviour of how users use application (like Google Analytics but for apps)
-
-#### WorkDocs
-
-  - Uses S3 with security to allow you to manage business documents in the cloud
-
-#### Workmail
   
-  - Exchange for AWS
-
-
-
+  - ***Mobile Analytics***
+     - Analyse app data
+  
+  - ***PinPoint***
+     - Engage with your users and understand behaviour of how users use application (like Google Analytics but for apps)
+  
+  - ***WorkDocs***
+    - Uses S3 with security to allow you to manage business documents in the cloud
+  
+  - ***Workmail***
+    - Exchange for AWS
 
 IOT
 ------
@@ -335,28 +319,23 @@ IOT
   - Manage IOT devices 
   - Provides services such as IOT gateway
 
-
-
 Desktop and App Streaming
 ----------------------------
 
-#### Workspaces
+  - ***Workspaces***
+     - A way of having a desktop in the client.
 
-  - A way of having a desktop in the client.
-
-#### AppStream 2.0
-
-  - A way of streaming desktop applications to users
-
-
+  - ***AppStream 2.0***
+     - A way of streaming desktop applications to users
 
 
 Artificial Intelligence
 ------------------------
 
-  - Elon Musk 
-    - ***Warns us against the dangers of Artification Intelligence***
+  - ***Elon Musk*** *warns us against the dangers of Artification Intelligence***\
 
+  >
   > **Recommended Book**
   >
   > Superintelligenece by Nick Bostrom
+  >

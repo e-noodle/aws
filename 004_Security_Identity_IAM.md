@@ -23,16 +23,17 @@ Provides you with free SSL certificates for webservices
 Allows you to connect Active Directory to AWS
 
 ## WAF 
-Traditionally firewalls protect you at tht network layer. WAG allows you to apply Application level prtection to your website
+Traditionally firewalls protect you at tht network layer. 
+WAF allows you to apply Application Level protection to your website.
 
 * SQL injection
 * cross site sripting * Way of connecting up S3 to on premise datacenters
 
 ## AWS Artifact 
 
-Compliance Documentation
-ISO 900 Certification
-PCI Certification
+* Compliance Documentation
+* ISO 900 Certification
+* PCI Certification
 
 ## Cloud Watch
 
@@ -42,3 +43,9 @@ Disk util, RAM util, CPU etc
 ## Cloud Formation (Infrastructre as Code)
 
 A way of turning your physical infrastructure into code.  Its a document which describes your AWS environment which become templates which can be used to deploy infrastructure.
+
+## Cloud Trail
+Used for auditing changes in your environment
+
+## Opsworks
+

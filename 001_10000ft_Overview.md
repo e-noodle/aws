@@ -332,7 +332,7 @@ Desktop and App Streaming
 Artificial Intelligence
 ------------------------
 
-  - ***Elon Musk*** *warns us against the dangers of Artification Intelligence***\
+***Elon Musk*** *warns us against the dangers of Artification Intelligence***
 
   >
   > **Recommended Book**

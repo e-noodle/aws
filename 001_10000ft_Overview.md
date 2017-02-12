@@ -197,24 +197,24 @@ Allows Pipelines to be managed
 
 # Mobile Services
 
-## Mobile Hub
+### Mobile Hub
 Console for managing mobile apps
 
-## Cognito
+### Cognito
 Users can sign into application using Social media providerss (e.g gmail, facebook)
 
-## Device Farm
+### Device Farm
 Enables you to improve the quiality of IOS, Android devices (physical)
 
-## Mobile Analytics - Allows you to analyse app data
+### Mobile Analytics - Allows you to analyse app data
 
-## PinPoint
+### PinPoint
 Engage with your users and understand behaviour of how users use application (like Google Analytics but for apps)
 
-## WorkDocs
+### WorkDocs
 Uses S3 with security to allow you to manage business documents in the cloud
 
-## Workmail
+### Workmail
 Exchange for AWS
 
 
@@ -225,10 +225,10 @@ Provides services such as IOT gatway
 
 # Desktop and App Streaming
 
-## Workspaces
+### Workspaces
 A way of having a desktop in the client.
 
-## AppStream 2.0
+### AppStream 2.0
 A way of streaming desktop applications to users
 
 

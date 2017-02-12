@@ -80,6 +80,7 @@
 
 #### DynamoDB
   - Non relational DB 
+
   > ***Exam*** Developer
 
 #### Redshift - Replicate primary DBs to redshift

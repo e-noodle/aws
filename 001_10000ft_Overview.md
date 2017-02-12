@@ -68,7 +68,7 @@
 
 ## Databases
 
-  `*Fundamental to all exams*`
+  > ***Fundamental to all exams***
 
 
 #### RDS
@@ -80,7 +80,7 @@
 
 #### DynamoDB
   - Non relational DB 
-    - > ***Exam*** Developer
+  > ***Exam*** Developer
 
 #### Redshift - Replicate primary DBs to redshift
 

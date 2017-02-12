@@ -303,9 +303,7 @@ Developer Tools
 Mobile Services
 ------------------
 
-#### Mobile Hub
-
-  - Console for managing mobile apps
+#### Mobile Hub  - Console for managing mobile apps
 
 #### Cognito
 
@@ -346,9 +344,11 @@ Desktop and App Streaming
 ----------------------------
 
 #### Workspaces
+
   - A way of having a desktop in the client.
 
 #### AppStream 2.0
+
   - A way of streaming desktop applications to users
 
 
@@ -357,7 +357,9 @@ Desktop and App Streaming
 Artificial Intelligence
 ------------------------
 
-  - Elon Musk *`Warning` us against the dangers of artification intelligence*
+  - Elon Musk 
+    - ***Warns us against the dangers of Artification Intelligence***
 
   > **Recommended Book**
+  >
   > Superintelligenece by Nick Bostrom

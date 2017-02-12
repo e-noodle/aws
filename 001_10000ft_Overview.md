@@ -27,7 +27,8 @@ AWS Infrastructure (10,000 foot Overview)
 +-------------------------------------------------------+
 ```
 
-## Storage
+Storage
+-------
 
 #### [S3] Simple Storage Service
 

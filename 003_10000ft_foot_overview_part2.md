@@ -29,9 +29,9 @@ $ git clone https://github.com/e-noodle/aws
 * Way of connecting up S3 to on premise datacenters
 * Virtual appliance installed on premise
 
- ## Certifications
- * [Link to more info] - Professional
+## Certifications
+* [Link to more info] - Professional
  
- 19 ## References
+## References
 *  [Concepts and Components](https://acloud.guru/course/aws-certified-solutions-architect-associate/learn/aws-overview/concepts-and-components-2/watch) - aCloudGuru Concepts and Components
 [Link to more info]: <https://aws.amazon.com/certification/certified-solutions-architect-professional    />

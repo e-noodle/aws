@@ -29,8 +29,6 @@ $ git clone https://github.com/e-noodle/aws
 * Way of connecting up S3 to on premise datacenters
 * Virtual appliance installed on premise
 
-```
-
  ## Certifications
  * [Link to more info] - Professional
  

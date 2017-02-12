@@ -290,10 +290,16 @@
 
 
 
-## Mobile Services
+## Mobile Services  
 
-#### Mobile Hub
-Console for managing mobile apps
+
+
+
+#### Mobile Hub  
+
+Console for managing mobile apps  
+
+
 
 #### Cognito
 Users can sign into application using Social media providerss (e.g gmail, facebook)

@@ -57,9 +57,8 @@ Storage
 
 
 
-
-## Databases
-
+Databases
+---------
   > ***Fundamental to all exams***
 
 
@@ -89,16 +88,17 @@ Storage
 
 
 
-## Migration
+Migration
+---------
 
 #### Snowball
 
   - Way of transferring data from on premise to AWS. 
   - Allow you to mover TB of data into the cloud.  
   - Hardware Appliance (1RU) with internal storage
-  - > `New Product - Snowball Edge - Amazon on Premise hardware`
+     - *Snowball Edge (Amazon on Premise hardware)*
   
-  - > SA, A
+  > ***Exam*** Solutions Architect, SysAdmin
 
 #### DMS
 
@@ -111,9 +111,10 @@ Storage
 
 
 
----
 
-## Analytics
+
+Analytics
+---------
 
 #### Athena
 
@@ -162,9 +163,9 @@ Storage
 
 
 
----
 
-## Security & Identity
+Security & Identity
+-------------------
 
 #### IAM
 
@@ -187,10 +188,8 @@ Storage
 
 
 
----
-
-## Application Services
-
+Application Services
+--------------------
 
 #### Directory Service
 
@@ -276,9 +275,10 @@ Storage
 
 
 
----
 
-## Developer Tools
+
+Developer Tools
+----------------
 
 #### CodeCommit
 
@@ -299,10 +299,9 @@ Storage
 
 
 
----
 
-## Mobile Services
-
+Mobile Services
+------------------
 
 #### Mobile Hub
 
@@ -334,17 +333,17 @@ Storage
 
 
 
----
 
-## IOT
+IOT
+------
 
   - Manage IOT devices 
   - Provides services such as IOT gateway
 
 
----
 
-## Desktop and App Streaming
+Desktop and App Streaming
+----------------------------
 
 #### Workspaces
   - A way of having a desktop in the client.
@@ -354,9 +353,9 @@ Storage
 
 
 
----
 
-## Artificial Intelligence
+Artificial Intelligence
+------------------------
 
   - Elon Musk *`Warning` us against the dangers of artification intelligence*
 

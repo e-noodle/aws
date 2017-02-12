@@ -92,6 +92,13 @@ Processing large amounts of data - TB/hour
 * Anaalise social media feeds
 * run realtime analysis
 
+### Data Pipeline
+Move data from S3 into DynamoDB or viaversa
+
+### QuickSight 
+* Business analytics tool
+* Create rich dashboards
+* Analyse data from DynamoDB, Redshift
 
 ## Certifications
 * [Link to more info] - Professional

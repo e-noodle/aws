@@ -1,6 +1,6 @@
 # AWS Infrastructure
-#### 10,000 Foot Overview 
 
+#### 10,000 Foot Overview 
 ```
 +-----------------+----------------+--------------------+
 |   GAME          |   ARTIFICIAL   |     MESSAGING      |
@@ -27,45 +27,47 @@
 
 ## Storage
 
-#### [S3] - Simple Storage Service
-* Virtual disk in the cloud
-* Object based storage
-* Stores files, movies, pictures etc.
+  #### [S3] - Simple Storage Service
+ 
+   - Virtual disk in the cloud
+   - Object based storage
+   - Stores files, movies, pictures etc.
 
-#### [Glacier] - Archive Storage
+  #### [Glacier] - Archive Storage
 
-* Stores files for archiving
-* Low cost
-* Good for compliance
+   - Stores files for archiving
+   - Low cost
+   - Good for compliance
 
-#### [EFS] - Elasic File Service
-* Block based storage.
-* Can be shared
-* Install Applications, Databases (can also use EBS)
-* Can share across multiple machines
+  #### [EFS] - Elasic File Service
 
-#### Storage Gateway
+   - Block based storage.
+   - Can be shared
+   - Install Applications, Databases (can also use EBS)
+   - Can share across multiple machines
 
-* Way of connecting up S3 to on premise datacenters
-* Virtual appliance installed on premise
+  #### Storage Gateway
+
+   - Way of connecting up S3 to on premise datacenters
+   - Virtual appliance installed on premise
 
 
+  ## Databases
 
-## Databases
+  Fundamental to all exams
 
- Fundamental to all exams
+ #### RDS
 
-#### RDS
+   - Oracle Server
+   - SQL Server
+   - Arora (MySQL, PostgreSQL)
 
-* Oracle Server
-* SQL Server
-* Arora (MySQL, PostgreSQL)
+ #### DynamoDB - Non relational DB
+ 
+  > Developer Cert
 
-#### DynamoDB - Non relational DB
-> Developer Cert
-
-#### Redshift - Replicate primary DBs to redshift
-* Useful for running reports
+ #### Redshift - Replicate primary DBs to redshift
+   - Useful for running reports
 
 #### Elasticache
 * Caches data in the cloud

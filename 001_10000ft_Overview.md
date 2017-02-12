@@ -303,15 +303,12 @@ Developer Tools
 Mobile Services
 ------------------
 
-#### Mobile Hub  - Console for managing mobile apps
-
-#### Cognito
-
-  - Users can sign into application using Social media providerss (e.g gmail, facebook)
-
-#### Device Farm
-
-  - Enables you to improve the quiality of IOS, Android devices (physical)
+  - ***Mobile Hub*** 
+     - Console for managing mobile apps
+  - ***Cognito***
+     - Users can sign into application using Social media providerss (e.g gmail, facebook)
+  - ***Device Farm***
+     - Enables you to improve the quiality of IOS, Android devices (physical)
 
 #### Mobile Analytics
 
